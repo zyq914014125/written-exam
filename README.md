@@ -9,9 +9,9 @@ expr 2 3 4 + *
 
 3. 用归并排序将3，1，4，1，5，9，2，6排序。
 
-# 前端面试题
+# 前端笔试题
 
-1. 使用数组的原生方法splice()和for循环根据serial去重
+1. 使用数组的原生方法splice()和for循环根据serial去重，如果不会的话，也可以用其他的方式
 
 ```javascript
   let students = [{
